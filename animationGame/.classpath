@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/ibxm.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/natives-linux.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/natives-mac.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/natives-windows.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/slick-util.jar"/>
+	<classpathentry kind="lib" path="G:/STUDY/CSE LEARNE/source code/java code/java basic/animationGame/java sourse for sound/lib/slick-util-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
