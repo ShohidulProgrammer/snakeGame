@@ -1,7 +1,7 @@
 # snakeGame
 
-features-- \n
-snake game made by java \n
+features-- 
+snake game made by java 
 basic animation game
 decrease life when touching with any enemy
 scoring pint
