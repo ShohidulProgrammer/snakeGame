@@ -1,8 +1,8 @@
 # snakeGame
 
 features-- 
-snake game made by java 
-basic animation game
-decrease life when touching with any enemy
-scoring pint
-multiple levels with increasing the number of enemies
+1. snake game made by java 
+2. basic animation game
+3. decrease life when touching with any enemy
+4. scoring pint
+5. multiple levels with increasing the number of enemies
